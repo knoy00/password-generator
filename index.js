@@ -13,4 +13,4 @@ function generatePassword() {
     passwordGen.textContent = password;
 }
 
-
+generatePassword()

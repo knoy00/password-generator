@@ -53,6 +53,7 @@ button{
     cursor: pointer;
 }
 
+/* 
 @media(max-width:900px){
     .container{
         width: 300px;
@@ -69,4 +70,4 @@ button{
     #password{
         font-size: 20px
     }
-}
+} */

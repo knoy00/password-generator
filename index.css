@@ -32,21 +32,28 @@ button{
     color: white;
     border: none;
     border-radius: 10px;
-    
+    cursor: pointer;
 }
 
 button:hover{
     color: black;
-    backgroung-color: white;
+    background-color: white;
 }
 
 @media(max-width:828px){
     .title{
         font-size: 30px;
-        background: grey;
+        background: green;
+        height: 70px;
     }
     
     #password{
-        font-size: 20px
+        font-size: 50px;
+        font-weight: 700;
     }
+
+    button{
+        width: 100px;
+        padding: 30px 45px;
+        
 }

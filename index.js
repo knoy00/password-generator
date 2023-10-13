@@ -10,7 +10,5 @@ function generatePassword() {
         password += characters[randomIndex];
     }
     
-    passwordGen.textContent = password;
+    passwordGen.textContent = "Your key is: " + password;
 }
-
-generatePassword()

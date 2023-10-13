@@ -53,21 +53,3 @@ button{
     cursor: pointer;
 }
 
-/* 
-@media(max-width:900px){
-    .container{
-        width: 300px;
-    }
-
-    span{
-        margin-top: 15px;
-    }
-    .title{
-        font-size: 30px;
-        background: rgb(196, 33, 33);
-    }
-    
-    #password{
-        font-size: 20px
-    }
-} */

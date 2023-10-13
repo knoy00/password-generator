@@ -5,11 +5,7 @@ html, body {
 
 .container{
     width: 300px;
-    position: absolute;
-    top: 50%;
-    right: 30%;
-    transform: translate(-50%, -50%);
-    border-radius: 10px;
+    height: 100dvh;
     background-color: black;
     color: beige;
 }
@@ -25,7 +21,7 @@ html, body {
 }
 
 span{
-    color: rgb(30, 145, 44);
+    color: rgb(234, 182, 9);
 }
 
 #password{

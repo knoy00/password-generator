@@ -1,0 +1,47 @@
+html, body {
+    margin: 0;
+    padding: 0px;
+}
+
+.title{
+    background: grey;
+    margin-top: 0;
+    text-align: center;
+    height: 50px;
+    font-size: 40px
+}
+
+#password{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 22px;
+    
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+button{
+    width: 100px;
+    padding: 10px 15px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    
+}
+
+@media(max-width:828px){
+    .title{
+        font-size: 30px;
+        background: grey;
+    }
+    
+    #password{
+        font-size: 20px
+    }
+}

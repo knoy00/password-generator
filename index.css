@@ -35,6 +35,11 @@ button{
     
 }
 
+button:hover{
+    color: black;
+    backgroung: white;
+}
+
 @media(max-width:828px){
     .title{
         font-size: 30px;
